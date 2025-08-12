@@ -37,5 +37,605 @@
     "question": "What does 'scaffolding' mean in educational context?",
     "choices": ["A) Building physical structures", "B) Providing temporary support for learning", "C) Creating lesson plans", "D) Organizing classroom furniture"],
     "answer": "B) Providing temporary support for learning"
+  },
+  {
+    "id": 6,
+    "subject": "Professional Education",
+    "question": "In the formulation of classroom regulations, which of the following should a teacher refrain from doing?",
+    "choices": [
+      "a. State classroom regulation as clearly as possible",
+      "b. Teacher and the class should make as many regulations as possible",
+      "c. Enlist student aid in the formation of classroom regulation",
+      "d. Enforce classroom regulations consistently and fairly"
+    ],
+    "answer": "b. Teacher and the class should make as many regulations as possible"
+  },
+  {
+    "id": 7,
+    "subject": "Professional Education",
+    "question": "Zero standard deviation means that:",
+    "choices": [
+      "a. The students scores are the same",
+      "b. 50% of the scores obtained is zero",
+      "c. More than 50% of the score obtained is zero",
+      "d. Less than 50% of the scores obtained is zero"
+    ],
+    "answer": "a. The students scores are the same"
+  },
+  {
+    "id": 8,
+    "subject": "Professional Education",
+    "question": "Which is the least authentic mode of assessment?",
+    "choices": [
+      "a. Paper-and-pencil test in vocabulary",
+      "b. Oral performance to assess student's spoken communication skills",
+      "c. Experiments in science to assess skill in the use of scientific methods",
+      "d. Artist production for music or art subject"
+    ],
+    "answer": "a. Paper-and-pencil test in vocabulary"
+  },
+  {
+    "id": 9,
+    "subject": "Professional Education",
+    "question": "In what period of a child is physical growth fastest?",
+    "choices": [
+      "a. Prenatal period",
+      "b. Early adolescence",
+      "c. Early childhood",
+      "d. Prenatal and early adolescence"
+    ],
+    "answer": "a. Prenatal period"
+  },
+  {
+    "id": 10,
+    "subject": "Professional Education",
+    "question": "How does fear affect the voluntariness of an act?",
+    "choices": [
+      "a. Makes the act involuntary",
+      "b. No effect at all",
+      "c. Increases voluntariness",
+      "d. Lessens but not destroy voluntariness"
+    ],
+    "answer": "d. Lessens but not destroy voluntariness"
+  },
+  {
+    "id": 11,
+    "subject": "Professional Education",
+    "question": "A group of people asserts that their culture is superior to another. This exemplifies:",
+    "choices": [
+      "a. Cultural gap",
+      "b. Ethnocentrism",
+      "c. Cultural conflict",
+      "d. Norm conflict"
+    ],
+    "answer": "b. Ethnocentrism"
+  },
+  {
+    "id": 12,
+    "subject": "Professional Education",
+    "question": "A test consists of a graph showing the relationship between age and population. Follow a series of true-false items based on the graph. Which type of test does this illustrate?",
+    "choices": [
+      "a. Laboratory exercise",
+      "b. Interpretative",
+      "c. Problem solving",
+      "d. Performance"
+    ],
+    "answer": "b. Interpretative"
+  },
+  {
+    "id": 13,
+    "subject": "Professional Education",
+    "question": "Which curricular move served to strengthen spiritual and ethical values?",
+    "choices": [
+      "a. Integration of creative thinking in all subject",
+      "b. Introduction of Value Education as a separate subject area",
+      "c. Reducing the number of subject areas into the skill subject",
+      "d. Re-introducing Science as all subject in Grade 1"
+    ],
+    "answer": "b. Introduction of Value Education as a separate subject area"
+  },
+  {
+    "id": 14,
+    "subject": "Professional Education",
+    "question": "A teacher is a facilitator of learning and of the development of the youth. Which practice is not keeping with his role as facilitator?",
+    "choices": [
+      "a. Considers the multiple intelligences of learners",
+      "b. Humiliates misbehaving pupils",
+      "c. Dialogs with parents and with other members of the community",
+      "d. Keeps himself abreast with educational trends"
+    ],
+    "answer": "b. Humiliates misbehaving pupils"
+  },
+  {
+    "id": 15,
+    "subject": "Professional Education",
+    "question": "Which one indicates a teacher's genuine enthusiasm and pride in teaching?",
+    "choices": [
+      "a. Sticking to teaching for the moment that there are no better offers",
+      "b. Telling everyone that he went to teaching for there was no other choice then",
+      "c. Engaging himself in continuing professional education",
+      "d. Belittling the remuneration one gets from teaching"
+    ],
+    "answer": "c. Engaging himself in continuing professional education"
+  },
+  {
+    "id": 16,
+    "subject": "Professional Education",
+    "question": "In writing performance objective which word is not acceptable?",
+    "choices": [
+      "a. Manipulate",
+      "b. Integrate",
+      "c. Delineate",
+      "d. Comprehend"
+    ],
+    "answer": "d. Comprehend"
+  },
+  {
+    "id": 17,
+    "subject": "Professional Education",
+    "question": "When is giving praise ineffective? When it?",
+    "choices": [
+      "a. Uses the accomplishment of peers as the context for describing a student's present accomplishment",
+      "b. Provides information to student's about their competence and the value of their accomplishment",
+      "c. Focuses students attention on her own task relevant behavior",
+      "d. Shows spontaneity, variety and other signs of credibility"
+    ],
+    "answer": "a. Uses the accomplishment of peers as the context for describing a student's present accomplishment"
+  },
+  {
+    "id": 18,
+    "subject": "Professional Education",
+    "question": "Which statement applies when scores distribution is negatively skewed?",
+    "choices": [
+      "a. The mode corresponds to a lower value",
+      "b. The median is higher that the mode",
+      "c. The mode and median are equal",
+      "d. The mean corresponds to a high value"
+    ],
+    "answer": "b. The median is higher that the mode"
+  },
+  {
+    "id": 19,
+    "subject": "Professional Education",
+    "question": "The use of the process approach gives the student the opportunity to:",
+    "choices": [
+      "a. Learn to their own",
+      "b. Apply the scientific method",
+      "c. Learn how to learn",
+      "d. Make use of laboratory apparatuses"
+    ],
+    "answer": "b. Apply the scientific method"
+  },
+  {
+    "id": 20,
+    "subject": "Professional Education",
+    "question": "A comprehension skill of higher level which may be inferred or implied from reading is:",
+    "choices": [
+      "a. Picking out the main idea",
+      "b. Drawing conclusion",
+      "c. Nothing specific details",
+      "d. Following direction"
+    ],
+    "answer": "b. Drawing conclusion"
+  },
+  {
+    "id": 21,
+    "subject": "Professional Education",
+    "question": "In the Preamble of the Code of Ethics of Professional Teachers, which is not mention about teachers?",
+    "choices": [
+      "a. Dully licensed professionals",
+      "b. Posses dignity and reputation",
+      "c. LET passers",
+      "d. With high moral values"
+    ],
+    "answer": "c. LET passers"
+  },
+  {
+    "id": 22,
+    "subject": "Professional Education",
+    "question": "What does a skewed score distribution mean?",
+    "choices": [
+      "a. The scores are concentrated more at one end or the other end",
+      "b. The mode, the mean and the median are equal",
+      "c. The mean and median are equal",
+      "d. The scores are normally distributed"
+    ],
+    "answer": "a. The scores are concentrated more at one end or the other end"
+  },
+  {
+    "id": 23,
+    "subject": "Professional Education",
+    "question": "What is implied by a negatively skewed score distribution?",
+    "choices": [
+      "a. The scores are evenly distributed from the left to the right",
+      "b. Most pupils are underachieves",
+      "c. Most of the scores are high",
+      "d. Most of the scores are low"
+    ],
+    "answer": "c. Most of the scores are high"
+  },
+  {
+    "id": 24,
+    "subject": "Professional Education",
+    "question": "A teacher discovers that a product of a certain bottling company brings about damage to teeth. Much as he wants to share the products of his research, he could not because of harassment from all sides. Which teacher's right is violated?",
+    "choices": [
+      "a. Right to property",
+      "b. Academic freedom",
+      "c. Right to one's honor",
+      "d. Right to make a livelihood"
+    ],
+    "answer": "b. Academic freedom"
+  },
+  {
+    "id": 25,
+    "subject": "Professional Education",
+    "question": "Why can the calculator do arithmetic? Because:",
+    "choices": [
+      "a. A computer inside the calculator tells it how",
+      "b. A watch inside direct it",
+      "c. A typewriter inside does it",
+      "d. A TV inside shows it"
+    ],
+    "answer": "a. A computer inside the calculator tells it how"
+  },
+  {
+    "id": 26,
+    "subject": "Professional Education",
+    "question": "On which constitutional provision is the full or partial integration of capable deaf and blind students in the classroom based? The provision on:",
+    "choices": [
+      "a. Protecting and promoting the right of all citizen to qualify education",
+      "b. Providing citizenship and vocational training to adult citizen",
+      "c. Academic freedom",
+      "d. Creating scholarship for poor and deserving students"
+    ],
+    "answer": "a. Protecting and promoting the right of all citizen to qualify education"
+  },
+  {
+    "id": 27,
+    "subject": "Professional Education",
+    "question": "Teaching in the cognitive, psychomotor and effective domains is based on the concept that the learner is a:",
+    "choices": [
+      "a. Moral and feeling being",
+      "b. Maternal and an acting being",
+      "c. Thinking, feeling and acting being",
+      "d. Spiritual and maternal being"
+    ],
+    "answer": "c. Thinking, feeling and acting being"
+  },
+  {
+    "id": 28,
+    "subject": "Professional Education",
+    "question": "Both Muslim and Christian value marriage but the Muslim practices polygamous marriage while the Christian practices monogamous marriage. What is this called?",
+    "choices": [
+      "a. Cultural relativism",
+      "b. Acculturation",
+      "c. Ethical relativism",
+      "d. Enculturation"
+    ],
+    "answer": "a. Cultural relativism"
+  },
+  {
+    "id": 29,
+    "subject": "Professional Education",
+    "question": "Teacher wants to compare 2 concepts. With which technique can accomplish this best?",
+    "choices": [
+      "a. K-W-L technique",
+      "b. Venn diagram",
+      "c. Spider web",
+      "d. Histogram"
+    ],
+    "answer": "b. Venn diagram"
+  },
+  {
+    "id": 30,
+    "subject": "Professional Education",
+    "question": "To build a sense of pride among Filipino youth what should be done?",
+    "choices": [
+      "a. Re-study our history and stress on our achievements as a people",
+      "b. Set aside the study of local history",
+      "c. Re-study our history from the perspective of our colonizers",
+      "d. Replace the study of folklores and myths with technical subjects"
+    ],
+    "answer": "a. Re-study our history and stress on our achievements as a people"
+  },
+  {
+    "id": 31,
+    "subject": "Professional Education",
+    "question": "When necessary conditions are present, the use of inductive method is preferred because:",
+    "choices": [
+      "a. It gives the teacher more time to rest",
+      "b. There is greater active participation on the part of the pupils",
+      "c. It needs only few instruction materials",
+      "d. Academic time is used wisely"
+    ],
+    "answer": "b. There is greater active participation on the part of the pupils"
+  },
+  {
+    "id": 32,
+    "subject": "Professional Education",
+    "question": "Which is the best reason why teacher begins a lesson in Math by checking and reviewing on the previous day's assignment and provides practice and drills?",
+    "choices": [
+      "a. Check if parents guide their children in the making of assignment",
+      "b. Make sure that the students understand the pre-requisite skills of the lesson",
+      "c. Prepare the students for the mastery test",
+      "d. Make learning interesting and enjoyable for students"
+    ],
+    "answer": "b. Make sure that the students understand the pre-requisite skills of the lesson"
+  },
+  {
+    "id": 33,
+    "subject": "Professional Education",
+    "question": "Which is a selective reading technique meant at getting at important facts very fast?",
+    "choices": [
+      "a. Skim reading",
+      "b. Scanning",
+      "c. Oral reading",
+      "d. Silent reading"
+    ],
+    "answer": "b. Scanning"
+  },
+  {
+    "id": 34,
+    "subject": "Professional Education",
+    "question": "For counseling to be successful which assumption must be avoided?",
+    "choices": [
+      "a. The environment must provide assurance of confidentiality",
+      "b. The counselor tells the student what to do",
+      "c. The student is willing to participate in the process",
+      "d. The counselor must be able to relate to the student"
+    ],
+    "answer": "b. The counselor tells the student what to do"
+  },
+  {
+    "id": 35,
+    "subject": "Professional Education",
+    "question": "Which technique is most appropriate when a teacher wants a group to agree on a plan of action?",
+    "choices": [
+      "a. Composite report",
+      "b. Consensus decision making",
+      "c. Symposium",
+      "d. Agenda"
+    ],
+    "answer": "b. Consensus decision making"
+  },
+  {
+    "id": 36,
+    "subject": "Professional Education",
+    "question": "What term applies to the search for related literature by computing access of databases of discs kept in libraries?",
+    "choices": [
+      "a. Compact discs computer research",
+      "b. On line research",
+      "c. Manual research",
+      "d. Computer research"
+    ],
+    "answer": "a. Compact discs computer research"
+  },
+  {
+    "id": 37,
+    "subject": "Professional Education",
+    "question": "What best indicates the effectiveness of classroom activities?",
+    "choices": [
+      "a. The laughter and enjoyment of students",
+      "b. The application of concept learned in daily life",
+      "c. The utilization of varied techniques and approaches",
+      "d. The variety of instructional materials used"
+    ],
+    "answer": "b. The application of concept learned in daily life"
+  },
+  {
+    "id": 38,
+    "subject": "Professional Education",
+    "question": "The main purpose of the compulsory study of the Constitution in Philippine schools is to:",
+    "choices": [
+      "a. Develop the students into responsible thinking citizens",
+      "b. Acquaint students with the historical development of the Philippine Constitution",
+      "c. Prepare students for law making",
+      "d. Make constitutional experts of the students"
+    ],
+    "answer": "a. Develop the students into responsible thinking citizens"
+  },
+  {
+    "id": 39,
+    "subject": "Professional Education",
+    "question": "Some students who are high in the scholastic aptitude test have failed in college. Some who are below the standards set for admission but who for various reasons were admitted, attained satisfactory standings. This proves that:",
+    "choices": [
+      "a. Human beings are certainly predictable",
+      "b. Admission tests are not accurate, hence should not be used",
+      "c. Aptitude tests do not measure all factors important for success",
+      "d. Aptitude test can be perfectly relied on"
+    ],
+    "answer": "c. Aptitude tests do not measure all factors important for success"
+  },
+  {
+    "id": 40,
+    "subject": "Professional Education",
+    "question": "If the teachers pattern in questioning consists of calling on a student then asking the question:",
+    "choices": [
+      "a. All students may be encouraged to participate",
+      "b. The student called to answer may be able to think well of his answer",
+      "c. The rest of the class may just dictate the answer",
+      "d. The rest of the class may not engage themselves in thinking of the answer"
+    ],
+    "answer": "d. The rest of the class may not engage themselves in thinking of the answer"
+  },
+  {
+    "id": 41,
+    "subject": "Professional Education",
+    "question": "Freud expounded that there is a period when young girls experience rivalry with their mother for their father's affection. This is called:",
+    "choices": [
+      "a. Electra complex",
+      "b. Oedipus complex",
+      "c. Achilles syndrome",
+      "d. Cassandra syndrome"
+    ],
+    "answer": "a. Electra complex"
+  },
+  {
+    "id": 42,
+    "subject": "Professional Education",
+    "question": "Education is a lifelong process. This simply means that education:",
+    "choices": [
+      "a. May take place formally or informally to enable the individual to grow",
+      "b. May take place anywhere and anytime the individual so desires",
+      "c. Is a continuous process of experiencing and reorganizing experiences",
+      "d. Take place in the school where the individual is exposed, self contained experiences"
+    ],
+    "answer": "c. Is a continuous process of experiencing and reorganizing experiences"
+  },
+  {
+    "id": 43,
+    "subject": "Professional Education",
+    "question": "The tendency to imitate elders is very strong in the early childhood stage. Teachers should therefore be very good:",
+    "choices": [
+      "a. Counselors",
+      "b. Role models",
+      "c. Disciplinarians",
+      "d. Facilitators of learning"
+    ],
+    "answer": "b. Role models"
+  },
+  {
+    "id": 44,
+    "subject": "Professional Education",
+    "question": "How is Values Education offered in the National Secondary Education Curriculum?",
+    "choices": [
+      "a. Emphasized in Science and Technology",
+      "b. Integrated in all subject areas",
+      "c. As a separate subject",
+      "d. Integrated with Technology and Home Economics"
+    ],
+    "answer": "b. Integrated in all subject areas"
+  },
+  {
+    "id": 45,
+    "subject": "Professional Education",
+    "question": "The NSEC orients secondary education to:",
+    "choices": [
+      "a. The teaching of the national symbols",
+      "b. Health values development",
+      "c. The development of competencies and values for social living",
+      "d. National development requirement and reflects search based direction"
+    ],
+    "answer": "c. The development of competencies and values for social living"
+  },
+  {
+    "id": 46,
+    "subject": "Professional Education",
+    "question": "The child cannot distinguish abstracts during the sensory motor of development. Which of these techniques should a teacher apply to accommodate learning?",
+    "choices": [
+      "a. Make use of individualize instruction",
+      "b. Explain the lesson very well",
+      "c. Utilize concrete objects to clarify concept",
+      "d. Provide variety of educational toys"
+    ],
+    "answer": "c. Utilize concrete objects to clarify concept"
+  },
+  {
+    "id": 47,
+    "subject": "Professional Education",
+    "question": "Which of these systems of learning includes ways and methods which are used in preserving and building certain within cultural communities?",
+    "choices": [
+      "a. Non-formal learning",
+      "b. Multi-level learning",
+      "c. Cultural learning",
+      "d. Indigenous learning"
+    ],
+    "answer": "d. Indigenous learning"
+  },
+  {
+    "id": 48,
+    "subject": "Professional Education",
+    "question": "Which of the following statement is true in the use of experiments and demonstrations in teaching Science:",
+    "choices": [
+      "a. It is valuable if used in the context of a lesson that related observation to other information",
+      "b. It should be encouraged in elementary school since the concept the encompass are difficult for your children",
+      "c. It is as valuable as teaching by lecturing",
+      "d. It is less valuable than teaching through inquiry and discussion"
+    ],
+    "answer": "a. It is valuable if used in the context of a lesson that related observation to other information"
+  },
+  {
+    "id": 49,
+    "subject": "Professional Education",
+    "question": "Identical twins are more alike than fraternal twins. Which of the following statement principle supported by this?",
+    "choices": [
+      "a. Environment affects both fraternal and identical twins",
+      "b. Intelligence hinges in physical structure",
+      "c. Heredity has a part in determining intelligence",
+      "d. Intelligence is determined partly by pre-natal nutrition"
+    ],
+    "answer": "c. Heredity has a part in determining intelligence"
+  },
+  {
+    "id": 50,
+    "subject": "Professional Education",
+    "question": "In testing which of the following is referred to as cultural bias?",
+    "choices": [
+      "a. Some culture do better on test than others",
+      "b. Test items are more familiar with some culture",
+      "c. Test will show who is more cultured",
+      "d. Cultured people do better on tests"
+    ],
+    "answer": "b. Test items are more familiar with some culture"
+  },
+  {
+    "id": 51,
+    "subject": "Professional Education",
+    "question": "Which is the most obvious and familiar way of reporting variability?",
+    "choices": [
+      "a. Standard deviation",
+      "b. Range between highest with some culture",
+      "c. Standard error of the mean",
+      "d. Distribution of raw scores"
+    ],
+    "answer": "a. Standard deviation"
+  },
+  {
+    "id": 52,
+    "subject": "Professional Education",
+    "question": "The theory of identical elements in learning holds that transfer is facilitated when the:",
+    "choices": [
+      "a. Teacher uses different teaching devices",
+      "b. Learner has a memory of specific responses",
+      "c. Development task is easily identified",
+      "d. Experience is similar to the application situation"
+    ],
+    "answer": "d. Experience is similar to the application situation"
+  },
+  {
+    "id": 53,
+    "subject": "Professional Education",
+    "question": "If this need is not met, the adolescent tends to be critical and always tries to find fault. This is the need:",
+    "choices": [
+      "a. For adventure",
+      "b. For recognition",
+      "c. To belong",
+      "d. For material security"
+    ],
+    "answer": "b. For recognition"
+  },
+  {
+    "id": 54,
+    "subject": "Professional Education",
+    "question": "The way a child talks and walks manifest gestures that have been learned from models he had been exposed. This explains what influence?",
+    "choices": [
+      "a. Affective",
+      "b. Insight",
+      "c. Social",
+      "d. Cognitive"
+    ],
+    "answer": "c. Social"
+  },
+  {
+    "id": 55,
+    "subject": "Professional Education",
+    "question": "Audio-visual aids are used in classroom teaching to _________.",
+    "choices": [
+      "a. Help make learning more permanent",
+      "b. All of these",
+      "c. Help clarify important concept",
+      "d. Arouse and sustain student's interest"
+    ],
+    "answer": "b. All of these"
   }
 ]
