@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "subject": "Professional Education",
+    "question": "What is the primary goal of education according to John Dewey?",
+    "choices": ["A) Memorization of facts", "B) Development of critical thinking", "C) Preparation for life through experience", "D) Academic excellence"],
+    "answer": "C) Preparation for life through experience",
+    "svg": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 2L3 7L12 12L21 7L12 2Z\" stroke=\"#3B82F6\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"/><path d=\"M3 17L12 22L21 17\" stroke=\"#3B82F6\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"/><path d=\"M3 12L12 17L21 12\" stroke=\"#3B82F6\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"/></svg>"
+  },
+  {
+    "id": 2,
+    "subject": "Professional Education",
+    "question": "Which learning theory emphasizes the role of reinforcement?",
+    "choices": ["A) Constructivism", "B) Behaviorism", "C) Cognitivism", "D) Humanism"],
+    "answer": "B) Behaviorism",
+    "svg": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9 12L11 14L15 10\" stroke=\"#10B981\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"/><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#10B981\" strokeWidth=\"2\"/></svg>"
+  },
+  {
+    "id": 3,
+    "subject": "General Education",
+    "question": "What is the unit of electrical resistance?",
+    "choices": ["A) Ampere", "B) Volt", "C) Ohm", "D) Watt"],
+    "answer": "C) Ohm",
+    "svg": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M13 2L3 14H12L11 22L21 10H12L13 2Z\" stroke=\"#F59E0B\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"/></svg>"
+  },
+  {
+    "id": 4,
+    "subject": "General Education",
+    "question": "Who wrote 'Noli Me Tangere'?",
+    "choices": ["A) Andres Bonifacio", "B) Jose Rizal", "C) Emilio Aguinaldo", "D) Antonio Luna"],
+    "answer": "B) Jose Rizal",
+    "svg": "<svg width=\"60\" height=\"60\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4 19.5A2.5 2.5 0 0 1 6.5 17H20\" stroke=\"#8B5CF6\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"/><path d=\"M6.5 2H20V22H6.5A2.5 2.5 0 0 1 4 19.5V4.5A2.5 2.5 0 0 1 6.5 2Z\" stroke=\"#8B5CF6\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"/></svg>"
+  },
+  {
+    "id": 5,
+    "subject": "Professional Education",
+    "question": "What does 'scaffolding' mean in educational context?",
+    "choices": ["A) Building physical structures", "B) Providing temporary support for learning", "C) Creating lesson plans", "D) Organizing classroom furniture"],
+    "answer": "B) Providing temporary support for learning"
+  }
+]
